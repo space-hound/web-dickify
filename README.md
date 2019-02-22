@@ -3,5 +3,5 @@ this is just a test
 
 </br>
 
-# ink here
+# link here
    [this is a lie, not a link](https://space-hound.github.io/web-dickify/)
