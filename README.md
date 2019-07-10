@@ -1,4 +1,4 @@
-# # web-dickify
+# web-dickify
 
 [Live Demo Here!](https://space-hound.github.io/web-dickify/)
 
